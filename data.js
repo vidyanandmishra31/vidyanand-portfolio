@@ -1,9 +1,9 @@
 const portfolioData = {
   "personal": {
-    "name": "Rohan Das",
+    "name": "Vidyanand Mishra",
     "title": "Full Stack Developer & DevOps Engineer",
-    "email": "rohandas.zero@gmail.com",
-    "github": "https://github.com/rd6260",
+    "email": "vidyanandmishra31@gmail.com",
+    "github": "https://github.com/vidyanandmishra31",
     "linkedin": "https://linkedin.com",
     "about": "I build digital products that combine beautiful design with robust engineering. Passionate about creating seamless user experiences and writing clean, efficient code."
   },
@@ -40,9 +40,9 @@ const portfolioData = {
   ],
   "education": [
     {
-      "degree": "B.S. in Computer Science",
-      "institution": "University of Technology",
-      "duration": "2015 - 2019"
+      "degree": "B.Tech in Electronics annd Communication",
+      "institution": "IIIT Dharwad",
+      "duration": "2026-2030"
     }
   ]
 };
