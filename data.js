@@ -1,7 +1,7 @@
 const portfolioData = {
   "personal": {
     "name": "Vidyanand Mishra",
-    "title": "Full Stack Developer & DevOps Engineer",
+    "title": "ECE student",
     "email": "vidyanandmishra31@gmail.com",
     "github": "https://github.com/vidyanandmishra31",
     "linkedin": "https://linkedin.com",
